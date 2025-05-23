@@ -1,0 +1,1 @@
+streamlit run dashboards/streamlit_app.py
